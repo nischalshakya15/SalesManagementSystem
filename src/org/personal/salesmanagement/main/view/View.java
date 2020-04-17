@@ -63,7 +63,7 @@ public class View {
                 System.out.println("Total sales for today is RM " + salesDao.getTotalSales());
                 System.out.println("Press \"X\" to back to main menu");
                 cont = scan.next().charAt(0);
-                if (Character.toLowerCase(cont) == 'X') {
+                if (Character.toLowerCase(cont) == 'x') {
                     displayMenu();
                 }
                 break;
@@ -83,7 +83,7 @@ public class View {
 
                 System.out.println("Press \"X\" to back to main menu");
                 cont = scan.next().charAt(0);
-                if (Character.toLowerCase(cont) == 'X') {
+                if (Character.toLowerCase(cont) == 'x') {
                     displayMenu();
                 }
                 break;

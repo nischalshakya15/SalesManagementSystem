@@ -12,4 +12,9 @@ Below is an example of the output.
 
 ![Sales details](./images/SalesDetails.png)
 
+### Steps to run the application
+* Make sure you have **Java** in your system.
+* Clone the project git clone https://github.com/nischalshakya15/SalesManagementSystem.git
+* Go to the command prompt or terminal 
+* Run java -jar SalesManagementSystem.jar
 
