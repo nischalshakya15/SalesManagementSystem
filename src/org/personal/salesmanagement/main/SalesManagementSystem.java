@@ -5,6 +5,6 @@ import org.personal.salesmanagement.main.view.View;
 public class SalesManagementSystem {
 
     public static void main(String[] args) {
-        new View();
+        View view = new View();
     }
 }

@@ -1,0 +1,13 @@
+EXPRESSION#>ls
+STATEMENT#>System.out.println("hello world"\
+	        + "");
+STATEMENT#>System.out.println("Hello world");
+VAR#>int a = 2;
+VAR#>int b = 2'\
+	\
+	\
+	\
+	'
+VAR#>int a = 2;
+VAR#>int b = 2
+VAR#>int sum = a +b ;
